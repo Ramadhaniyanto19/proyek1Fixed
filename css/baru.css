@@ -1,0 +1,136 @@
+/* Index.PHP */
+.nav-icon i {
+  color: white;
+}
+
+.nav-icon {
+  display: inline;
+}
+
+@media screen and (max-width: 755px) {
+  .carousel-inner {
+    height: auto;
+  }
+}
+
+@media (min-width: 800px) {
+  .slideku {
+    height: 300px;
+    width: auto;
+    position: relative;
+  }
+}
+
+/* Akhir Index.Php */
+
+/* Login.php */
+.body-img {
+  background-image: url("../assets/img/bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  /* background-repeat: no-repeat;
+                    -webkit-background-size: cover;
+                    -moz-background-size: cover;
+                    -o-background-size: cover;
+                    background-size: cover; */
+}
+
+.login-method {
+  padding-top: 10px;
+  text-align: center;
+  color: rgb(245, 160, 160);
+}
+
+.log-sub {
+  height: auto;
+  background-color: rgb(250, 248, 248);
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+.password {
+  padding-top: 20px;
+}
+
+.kotak {
+  width: 100%;
+}
+
+.login {
+  width: 65%;
+  padding-top: 10%;
+}
+
+.login h1 {
+  color: white;
+}
+
+.bg-login {
+  width: 300px;
+  background-color: rgb(95, 155, 212);
+  background-size: cover;
+}
+
+@media screen and (max-width: 850px) {
+  .login {
+    margin-top: 15%;
+  }
+}
+
+.cd-item {
+  width: 15em;
+}
+@media screen and (max-width: 776px) {
+  .cd-item {
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.welcome {
+  font-family: "Tentang Nanti Demo", Arial, Helvetica, sans-serif;
+  color: #c08457;
+}
+.testing {
+  font-family: "Tentang Nanti Demo", Arial, Helvetica, sans-serif;
+  color: #c08457;
+}
+
+@media screen and (min-width: 1200px) {
+  .produk-card {
+    width: 18rem;
+  }
+}
+
+.body {
+  top: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.card-image {
+  min-width: 100%;
+}
+
+.txt-color {
+  color: red;
+}
+
+.button {
+  margin-top: 10px;
+  margin-left: 20px;
+  width: 270px;
+}
+
+.border-test {
+  height: 300px;
+  margin-top: 115px;
+}
+
+/* 
+                .te p {
+                  color: white;
+                } */
